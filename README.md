@@ -2,33 +2,30 @@
 
 
 <h2>Overview</h2>
-This project demonstrates a functional Windows Server 2019 Active Directory lab built using VirtualBox. It simulates a basic enterprise network with a domain controller, DHCP, NAT, and a domain-joined Windows 10 client. A PowerShell script was used to create 1000 users for testing administrative tasks.
+This section documents hands-on experience with common help desk responsibilities performed in my existing Active Directory home lab.
 
 <br />
 
 <h2>Objective</h2>
-Learn how organizations manage users, computers, and network settings through Active Directory.
+Gain hands-on experience and familiratiy with common every day Active Directory help desk tasks.
 
 <h2>Tools Used</h2>
 
 - <b>VirtualBox</b> 
 - <b>Windows Server 2019</b>
-- <b>Windows 10</b>
-- <b>Active Directory Domain Services (AD DS)</b>
-- <b>DHCP</b>
-- <b>Routing and Remote Access (NAT)</b>
-- <b>PowerShell</b>
+- <b>Active Directory</b>
 
 <h2>Key Features</h2>
 
-- <b>Configured DC with two NICs (NAT + Internal)</b> 
-- <b>Promoted Server 2019 to Domain Controller with root domain</b>
-- <b>Installed and configured DHCP for internal network</b>
-- <b>Configured NAT using Routing and Remote Access</b>
-- <b>Created 1000 domain users using PowerShell</b>
-- <b>Created organizational units and assigned domain admin</b>
-- <b>Joined Windows 10 client to the domain</b>
-- <b>Tested login with domain account on client VM</b>
+- <b>Locate users and computers in AD</b> 
+- <b>Reset user passwords</b>
+- <b>Edit user attributes (title, department, phone)</b>
+- <b>Move users between OUs</b>
+- <b>Enable Advanced Features and view extra attributes</b>
+- <b>View computer properties and trust status</b>
+- <b>Create a service account with limited permissions</b>
+- <b>Simulate onboarding (create new user and assign to group)</b>
+- <b>Simulate offboarding (disable user and move to "Disabled Users" OU)</b>
 
 
 <h2>Network Diagram:</h2>
