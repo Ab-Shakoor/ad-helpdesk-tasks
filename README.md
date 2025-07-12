@@ -2,8 +2,7 @@
 
 
 <h2>Overview</h2>
-This section documents hands-on experience with common help desk responsibilities performed in my existing Active Directory home lab.
-
+This section documents hands-on experience with common help desk responsibilities performed in my existing <a href="https://github.com/Ab-Shakoor/Active-Directory-Lab">Active Directory Home Lab</a>.
 <br />
 
 <h2>Objective</h2>
@@ -26,13 +25,6 @@ Gain hands-on experience and familiratiy with common every day Active Directory 
 - <b>Create a service account with limited permissions</b>
 - <b>Simulate onboarding (create new user and assign to group)</b>
 - <b>Simulate offboarding (disable user and move to "Disabled Users" OU)</b>
-
-
-<h2>Network Diagram:</h2>
-<br/>
-
-<p align="center">
-<img src="https://imgur.com/zmWOdUd.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 
 
 <h2>Project walk-through:</h2>
