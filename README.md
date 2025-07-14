@@ -95,7 +95,7 @@ Enabled “Advanced Features” under the View menu and viewed `Attribute Editor
 <br/>
 
 <br/>
-<img src="https://i.imgur.com/zF0h0mJ.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/vOlNc5L.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
@@ -108,15 +108,15 @@ Viewed the computer object for the Windows 10 client and confirmed domain member
 <br/>
 
 <br/>
-<img src="https://i.imgur.com/lK7rpNk.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/ggoRgAj.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
-<img src="https://i.imgur.com/xpkDndF.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/6mAC9Ux.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
-<img src="https://i.imgur.com/sDSDejP.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/Bm7Um1b.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
@@ -129,11 +129,15 @@ Created account `svc_backup` to act as service account, set password to never ex
 <br/>
 
 <br/>
-<img src="https://i.imgur.com/4nreaxz.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/ZfBj8kk.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
-<img src="https://i.imgur.com/S7tPFRV.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/bOGqxCd.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<br />
+
+<br/>
+<img src="https://i.imgur.com/r2tr8aA.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
@@ -146,11 +150,15 @@ Created `ljackson` in `IT_DEPARTMENT` OU, Set password, and updated job title an
 <br/>
 
 <br/>
-<img src="https://i.imgur.com/QD6POsD.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/QZrmzqd.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
-<img src="https://imgur.com/yCzZ1Wv.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/7YSMe5j.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<br />
+
+<br/>
+<img src="https://i.imgur.com/IjOosMo.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
@@ -163,11 +171,15 @@ Disabled `ljackson` and moved account to `Disabled Users` OU for archiving:</b>
 <br/>
 
 <br/>
-<img src="https://i.imgur.com/QD6POsD.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/FSJf8Xp.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
-<img src="https://imgur.com/yCzZ1Wv.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/TzwZarc.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<br />
+
+<br/>
+<img src="https://i.imgur.com/wa4DIlQ.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
