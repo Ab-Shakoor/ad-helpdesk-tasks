@@ -167,7 +167,7 @@ Created `ljackson` in `IT_DEPARTMENT` OU, Set password, and updated job title an
 
 <p align="center">
 <br />
-Disabled `ljackson` and moved account to `Disabled Users` OU for archiving:</b>  
+<b>Disabled `ljackson` and moved account to `Disabled Users` OU for archiving:</b>  
 <br/>
 
 <br/>
