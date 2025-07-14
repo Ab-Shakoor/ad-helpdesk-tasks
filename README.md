@@ -35,13 +35,8 @@ Gain hands-on experience and familiratiy with common every day Active Directory 
 <br/>
  
 <br/>
-<img src="https://i.imgur.com/DlKlKgh.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/x5q6qzL.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
- 
-<br/>
-<img src="https://imgur.com/RCQtWUN.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
-<br />
-
  
 <br/>
 
@@ -53,7 +48,11 @@ Located user `ashakoor` in ADUC, right-clicked and selected “Reset Password”
 <br/>
 
 <br/>
-<img src="https://i.imgur.com/TFYrIi7.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/6roz9ko.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<br />
+
+<br/>
+<img src="https://imgur.com/W6ZkMXD.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
@@ -66,15 +65,7 @@ Opened the properties for user `ashakoor` and updated job title and department:
 <br/>
 
 <br/>
-<img src="https://i.imgur.com/csFra62.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
-<br />
-
-<br/>
-<img src="https://i.imgur.com/K3kTPgq.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
-<br />
-
-<br/>
-<img src="https://i.imgur.com/jjYboJh.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/oyft0Gn.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
@@ -87,7 +78,11 @@ Moved user `ashakoor` from `_USERS` to `IT_DEPARTMENT` OU:
 <br/>
 
 <br/>
-<img src="https://i.imgur.com/9Nc1i6a.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://i.imgur.com/QNDoURU.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<br />
+
+<br/>
+<img src="https://i.imgur.com/8c8FX10.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
 <br />
 
 <br/>
