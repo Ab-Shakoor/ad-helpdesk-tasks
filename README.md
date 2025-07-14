@@ -31,7 +31,7 @@ Gain hands-on experience and familiratiy with common every day Active Directory 
 <br/>
 
 <p align="center">
-<b>Configured Windows Server 2019 VM with two network interfaces: one for external internet access (NAT), one for internal domain traffic:
+<b>Used the "Find" tool in ADUC to locate a specific user by the name "abdullah":
 <br/>
  
 <br/>
@@ -49,7 +49,7 @@ Gain hands-on experience and familiratiy with common every day Active Directory 
 
 <p align="center"> 
 <br />
-Assigned a static IP to the internal NIC so the domain controller can act as a DNS and DHCP server on the internal network: 
+Located user `ashakoor` in ADUC, right-clicked and selected “Reset Password”, and applied a temporary password and enforced a reset on next login: 
 <br/>
 
 <br/>
@@ -62,7 +62,7 @@ Assigned a static IP to the internal NIC so the domain controller can act as a D
 
 <p align="center">
 <br />
-Installed Active Directory Domain Services and promoted the server to a domain controller by creating a new forest and root domain. Logged in as the domain administrator after reboot: 
+Opened the properties for user `ashakoor` and updated job title and department: 
 <br/>
 
 <br/>
@@ -83,7 +83,7 @@ Installed Active Directory Domain Services and promoted the server to a domain c
 
 <p align="center">
 <br />
-Created an Organizational Unit (OU) for administrative accounts and added a new domain admin user with elevated privileges:  
+Moved user `ashakoor` from `_USERS` to `IT_DEPARTMENT` OU:  
 <br/>
 
 <br/>
@@ -96,7 +96,7 @@ Created an Organizational Unit (OU) for administrative accounts and added a new 
 
 <p align="center">
 <br />
-Enabled NAT on the domain controller using Routing and Remote Access, allowing internal network clients to access the internet:
+Enabled “Advanced Features” under the View menu and viewed `Attribute Editor` to inspect `lastLogon`:
 <br/>
 
 <br/>
@@ -109,7 +109,7 @@ Enabled NAT on the domain controller using Routing and Remote Access, allowing i
 
 <p align="center">
 <br />
-Installed DHCP Server role and created a scope to assign IP addresses automatically to internal network clients:  
+Viewed the computer object for the Windows 10 client and confirmed domain membership and basic system info:  
 <br/>
 
 <br/>
@@ -130,7 +130,7 @@ Installed DHCP Server role and created a scope to assign IP addresses automatica
 
 <p align="center">
 <br />
-Used a PowerShell script to automate the creation of 1000 user accounts for testing purposes:  
+Created account `svc_backup` to act as service account, set password to never expire, unchecked login requirement, and added description to clarify purpose:  
 <br/>
 
 <br/>
@@ -147,7 +147,7 @@ Used a PowerShell script to automate the creation of 1000 user accounts for test
 
 <p align="center">
 <br />
-Created a Windows 10 VM, connected it to the internal network, and successfully joined it to the domain:</b>  
+Created `ljackson` in `IT_DEPARTMENT` OU, Set password, and updated job title and department:</b>  
 <br/>
 
 <br/>
@@ -160,7 +160,22 @@ Created a Windows 10 VM, connected it to the internal network, and successfully 
 
 <br/>
 
+---
 
+<p align="center">
+<br />
+Disabled `ljackson` and moved account to `Disabled Users` OU for archiving:</b>  
+<br/>
+
+<br/>
+<img src="https://i.imgur.com/QD6POsD.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<br />
+
+<br/>
+<img src="https://imgur.com/yCzZ1Wv.png" height="400%" width="80%" alt="Active Directory Home Lab Steps"/>
+<br />
+
+<br/>
 <!--
  ```diff
 - text in red
