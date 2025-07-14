@@ -104,7 +104,7 @@ Enabled “Advanced Features” under the View menu and viewed `Attribute Editor
 
 <p align="center">
 <br />
-Viewed the computer object for the Windows 10 client and confirmed domain membership and basic system info:  
+Viewed the computer object for the Windows 10 client and confirmed lastLogon, OS, and domain membership:  
 <br/>
 
 <br/>
