@@ -14,7 +14,7 @@ Gain hands-on experience and familiratiy with common every day Active Directory 
 - <b>Windows Server 2019</b>
 - <b>Active Directory</b>
 
-<h2>Key Features</h2>
+<h2>Tasks Completed</h2>
 
 - <b>Locate users and computers in AD</b> 
 - <b>Reset user passwords</b>
