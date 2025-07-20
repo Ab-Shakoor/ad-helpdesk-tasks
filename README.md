@@ -18,7 +18,7 @@ Gain hands-on experience and familiratiy with common every day Active Directory 
 
 - <b>Locate users and computers in AD</b> 
 - <b>Reset user passwords</b>
-- <b>Edit user attributes (title, department, phone)</b>
+- <b>Edit user attributes (title, department, etc.)</b>
 - <b>Move users between OUs</b>
 - <b>Enable Advanced Features and view extra attributes</b>
 - <b>View computer properties and trust status</b>
